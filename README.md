@@ -29,11 +29,11 @@ You will need to install the required dependenices here: compression, express, m
 
 #### Here is a sample of the interface. You can insert the name of the transaction and transaction amount to add or subtract funds.
 
-![screenshot](assets/images/1.png)
+![screenshot](public/images/1.png)
 
 #### If you wish to test offline mode, feel free to navigate to the DevTools under Network as see here:
 
-![screenshot](assets/images/2.png)
+![screenshot](public/images/2.png)
 
 #### Enjoy the budget tracker!
 
